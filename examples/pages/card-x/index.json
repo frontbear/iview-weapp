@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Card 卡片-x",
+  "usingComponents": {
+    "i-card-x": "../../dist/card-x/index"
+  }
+}

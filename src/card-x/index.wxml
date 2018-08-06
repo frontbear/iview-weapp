@@ -1,0 +1,7 @@
+<view class="i-class i-card-x {{ full ? 'i-card-x-full' : '' }}">
+    <view class="i-class i-card-x-header">
+        <image class="i-card-x-header-thumb" src="{{ thumb }}" mode="widthFix" wx:if="{{ thumb }}" />
+    </view>
+    <view class="i-class i-card-x-body"><slot name="content"></slot></view>
+    <view class="i-class i-card-x-footer"><slot name="footer"></slot></view>
+</view>

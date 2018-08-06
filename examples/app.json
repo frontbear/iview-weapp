@@ -5,6 +5,7 @@
     "pages/color/index",
     "pages/button/index",
     "pages/card/index",
+    "pages/card-x/index",
     "pages/list/index",
     "pages/panel/index",
     "pages/grid/index",

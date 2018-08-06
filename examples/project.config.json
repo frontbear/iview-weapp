@@ -11,9 +11,9 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "1.9.98",
-	"appid": "wx307a52ca028d3c07",
-	"projectname": "iview-weapp",
+	"libVersion": "2.2.2",
+	"appid": "wx557dbc9dfb914ac7",
+	"projectname": "iview-wxapp",
 	"condition": {
 		"search": {
 			"current": -1,

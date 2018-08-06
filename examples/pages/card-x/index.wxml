@@ -1,0 +1,11 @@
+<view style="margin: 16px">默认</view>
+<i-card-x title="卡片标题" extra="额外内容" thumb="https://pic.36krcnd.com/201808/06043419/bdz5j0pso9plcu9t!heading">
+    <view slot="content">内容不错</view>
+    <view slot="footer">尾部内容</view>
+</i-card-x>
+
+<view style="margin: 16px">通栏</view>
+<i-card-x full title="卡片标题" extra="额外内容" thumb="https://pic.36krcnd.com/201808/06043419/bdz5j0pso9plcu9t!heading">
+    <view slot="content">内容不错</view>
+    <view slot="footer">尾部内容</view>
+</i-card-x>

@@ -1,0 +1,1 @@
+<text class="countdown-class">{{ prefix ? prefix : '' }}{{ time }}{{ suffix ? suffix : '' }}</text>

@@ -34,6 +34,7 @@
     "pages/toast/index",
     "pages/swipeout/index",
     "pages/count-down/index",
+    "pages/count-down-x/index",
     "pages/divider/index",
     "pages/index-list/index",
     "pages/collapse/index",

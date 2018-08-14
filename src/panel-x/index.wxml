@@ -1,0 +1,4 @@
+<view class="i-class i-panel-x">
+    <view wx:if="{{ title }}" class="i-panel-x-title i-class-title {{ hideTop ? 'i-panel-x-title-hide-top' : '' }}">{{ title }}</view>
+    <view class="i-panel-x-content {{ hideBorder ? 'i-panel-x-without-border' : '' }}"><slot></slot></view>
+</view>

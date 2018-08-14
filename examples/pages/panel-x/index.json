@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Panel 面板-x",
+  "usingComponents": {
+    "i-panel-x": "../../dist/panel-x/index"
+  }
+}
